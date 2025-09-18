@@ -1,4 +1,4 @@
-// src/game/engine.js
+
 import { getRandomBlock } from './blocks.js';
 import { processBlock, updatePoints } from './race.js';
 import { sleep } from './utils.js';

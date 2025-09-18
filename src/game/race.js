@@ -1,4 +1,4 @@
-// src/game/race.js
+
 import { rollDice } from './utils.js';
 
 export async function logRollResult(characterName, block, diceResult, attribute) {

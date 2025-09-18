@@ -1,4 +1,4 @@
-// src/index.js
+
 import { loadPlayers } from './game/players.js';
 import { playRaceEngine, declareWinner } from './game/engine.js';
 import { sleep } from './game/utils.js';

@@ -1,4 +1,4 @@
-// src/game/players.js
+
 import fs from 'fs/promises';
 
 function getTwoRandomPlayers(players) {
